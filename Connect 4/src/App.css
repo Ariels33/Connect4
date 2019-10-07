@@ -1,0 +1,48 @@
+.cell {
+  width: 70px;
+  height: 70px;
+  border: 2px solid;
+  float: left;
+  margin: 1px;
+  
+}
+
+.board {
+  width: 532px;
+  height: 460px;
+  border: 3px solid;
+  background-color: brown;
+  padding: 10px;
+  margin: 10px;
+}
+
+.none {
+  width: 66px;
+  height: 66px;
+  border: 2px solid;
+  border-radius: 50%;
+}
+
+.yel {
+  width: 66px;
+  height: 66px;
+  border: 2px solid;
+  border-radius: 50%;
+  background-color: rgb(255, 255, 0);
+}
+
+.red {
+  width: 66px;
+  height: 66px;
+  border: 2px solid;
+  border-radius: 50%;
+  background-color: rgb(255, 0, 0);
+}
+
+.winyel{
+  background-color: rgb(0, 255, 0);
+}
+
+.winred{
+  background-color: rgb(0, 255, 0);
+}
